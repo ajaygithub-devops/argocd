@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: cont1
-        image: ajaykumar9693/projecttrain:latest
+        image: ajaykumar9693/projectrecharge:latest
         ports:
           - containerPort: 80
 ---
